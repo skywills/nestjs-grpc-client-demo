@@ -1,0 +1,6 @@
+dist
+node_modules
+
+.tomg-config
+generated
+.pem
